@@ -8,5 +8,5 @@ fruits=["a","b"]
 for x in fruits:
     print(x)
 
-fot i in range(a,b):
-print(i)
+for i in range(a,b):
+    print(i)
